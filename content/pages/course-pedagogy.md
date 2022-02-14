@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Course Pedagogy
+type: CourseSection
 uid: 8791b9e9-fbff-97a4-9b01-11c893c7ccb7
 ---
 

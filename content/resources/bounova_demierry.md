@@ -4,7 +4,12 @@ description: This file includes final presentations by Gergana Bounova and Timot
   de Mierry.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/16-622-experimental-projects-ii-fall-2003/3c733c60b6d7123fc6efa333280a34ef_bounova_demierry.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: bounova_demierry.pdf
+type: OCWFile
 uid: 3c733c60-b6d7-123f-c6ef-a333280a34ef
 ---
