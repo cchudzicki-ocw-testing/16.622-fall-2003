@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: echeverri.pdf
-type: OCWFile
 uid: 3e619cca-0f73-6525-625b-b92c2843d439
 ---

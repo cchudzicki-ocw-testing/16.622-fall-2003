@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nyenke_chinwe.pdf
-type: OCWFile
 uid: 8f950cb3-4e4a-44d4-8afe-d7528f521d9a
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Multisectiondocuments04.pdf
-type: OCWFile
 uid: 74a5f12b-8f07-4414-4bd1-7e30109acbd6
 ---

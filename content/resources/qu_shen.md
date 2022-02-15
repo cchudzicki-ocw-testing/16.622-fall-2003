@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: qu_shen.pdf
-type: OCWFile
 uid: 3ddf5eab-01f0-2600-5cf0-fa630100f326
 ---

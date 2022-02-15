@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: demierry.pdf
-type: OCWFile
 uid: 45f50421-c090-cab7-6135-960691bb0fd1
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: arnold.pdf
-type: OCWFile
 uid: 9f487dc3-5277-5245-530c-fbf67b3f7e74
 ---

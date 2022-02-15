@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: progress_rep.pdf
-type: OCWFile
 uid: b02c4123-315b-80da-5032-b5af29b8b693
 ---

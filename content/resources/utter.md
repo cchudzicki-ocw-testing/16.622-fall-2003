@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: utter.pdf
-type: OCWFile
 uid: 2a692e49-8cbb-a4ab-7c30-736776488750
 ---

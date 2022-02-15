@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: nyenke_and_qu.pdf
-type: OCWFile
 uid: 1b75f149-a69a-3b39-337a-83e30ec9e169
 ---

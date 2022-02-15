@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Bennett_and_Alzieti_LS.pdf
-type: OCWFile
 uid: a645ba68-57af-aea1-091f-e64d9e1e0d7a
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: mccoy_and_utter.pdf
-type: OCWFile
 uid: cd62234d-5f8d-5c1f-0e5d-fd56dcc81d05
 ---
